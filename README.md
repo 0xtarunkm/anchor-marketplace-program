@@ -25,8 +25,8 @@ To install and build the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/0xtarunkm/solwork-marketplace.git
-   cd solwork-marketplace
+   git clone https://github.com/0xtarunkm/solcrow-marketplace.git
+   cd solcrow-marketplace
    ```
 
 2. Install dependencies:
@@ -57,8 +57,8 @@ Once deployed, users can interact with the contract via CLI or through a web int
 
 ### Escrow Program
 
-The escrow program for solwork can be found at [escrow program](https://github.com/0xtarunkm/solwork-escrow.git)
+The escrow program for solwork can be found at [escrow program](https://github.com/0xtarunkm/solcrow-escrow.git)
 
 ### Web Interface
 
-The web interface for this solwork can be found at [solwork web](https://github.com/0xtarunkm/solwork.git)
+The web interface for this solwork can be found at [solcrow web](https://github.com/0xtarunkm/solcrow.git)
