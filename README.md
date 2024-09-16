@@ -25,7 +25,7 @@ To install and build the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/0xtarunkm/solwork-escrow.git
+   git clone https://github.com/0xtarunkm/solwork-marketplace.git
    cd solwork-escrow
    ```
 
